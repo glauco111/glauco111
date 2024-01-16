@@ -2,7 +2,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Glauco Martins</h1>
 
 
-- 🔥 Jr. Flutter Developer and in love about programming
+- 🔥 Flutter Developer and in love about programming
 
 - <img src="https://raw.githubusercontent.com/github/explore/eaef8552d8b082ffafe2bfc8a5023d47da904aac/topics/azure/azure.png" height="20"/>  Azure Fundamentals Certified
 
