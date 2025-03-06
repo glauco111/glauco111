@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/glauco111/eb59e32d5db63c9856f68e161f09a635/raw/c0431976239cea796d918e47728b19a4c3a2a462/card_github.svg"/>
+
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Glauco Martins</h1>
 
 
@@ -13,12 +13,22 @@
 
 ## 🛠 &nbsp;Tech Stack
 
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
-![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=microsoft)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
+![Flutter](https://img.shields.io/badge/Flutter-a?style=flat&color=blue)
+![Static Badge](https://img.shields.io/badge/Azure-a?style=flat&color=grey)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-a?style=flat&color=grey)
+![MobX](https://img.shields.io/badge/%20MobX-a?style=flat&logoColor=blue&color=grey)
+![GetX](https://img.shields.io/badge/%20GetX-a?style=flat&color=grey)
+![Integration Test](https://img.shields.io/badge/Integration%20Tests-a?style=flat&color=grey)
+![Dependency Injection](https://img.shields.io/badge/Dependency%20Injection-a?style=flat&color=grey)
+![Dependency Injection](https://img.shields.io/badge/Parse%20Server-a?style=flat&color=grey)
+![Dependency Injection](https://img.shields.io/badge/Rest%20API-a?style=flat&color=grey)
+<br><br>
+and soon...
+![](https://img.shields.io/badge/Kotlin-a?style=flat&color=green)
+
+
+
+
 
 
 <br><br>
